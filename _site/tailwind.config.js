@@ -2,7 +2,15 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+    	colors: {
+    		shokupan: {
+        		dark: '#7c572a',
+        		light: '#fbfde8',
+      		},
+    	}
+    },
+   
   },
   variants: {
     extend: {},
