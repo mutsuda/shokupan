@@ -4,19 +4,15 @@
 
 layout: default
 ---
-<main class="bg-yellow-200 grid place-items-center h-screen">
+<main class="bg-gray-200 grid place-items-center h-screen">
   <div class="relative">
-    <div class="h-40 w-40 bg-pink-400 rounded-t-full relative overflow-hidden">
-      <div class="h-40 w-40 bg-gradient-to-l from-pink-100 to-pink-400 rounded-t-full absolute left-12"></div>
+    <div class="h-40 w-64 bg-gray-600 rounded-t-full relative overflow-hidden">
+      <div class="h-40 w-40 bg-gradient-to-l from-gray-100 to-gray-600 rounded-t-full absolute left-12"></div>
     </div>
-    <div class="h-32 w-40 bg-pink-400 rounded-b-3xl relative overflow-hidden">
-      <div class="h-32 w-40 bg-gradient-to-l from-pink-100 to-pink-400 rounded-b-3xl absolute left-12"></div>
+    <div class="h-16 w-64 bg-gray-600 rounded-b-3xl relative overflow-hidden">
+      <div class="h-32 w-40 bg-gradient-to-l from-gray-100 to-gray-600 rounded-b-3xl absolute left-12"></div>
     </div>
-    <div class="h-20 w-10 rounded-b-full bg-yellow-400 absolute left-16 overflow-hidden">
-      <div class="h-4 bg-yellow-500"></div>
-    </div>
-    <div class="h-9 w-3 rounded-b-full absolute left-6 bg-pink-400"></div>
-    <div class="h-4 w-3 rounded-b-full absolute left-10 bg-pink-400"></div>
-    <div class="h-9 w-2 rounded-t-full absolute left-8 bg-yellow-200"></div>
+
+
   </div>
 </main>
