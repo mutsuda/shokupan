@@ -70,8 +70,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8.7)
-  jekyll-feed (~> 0.6)
+  jekyll
   jekyll-postcss
   minima (~> 2.0)
   tzinfo (~> 1.2)
